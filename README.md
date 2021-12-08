@@ -1,4 +1,4 @@
-# Diffusion-Map-MISC
+# Classical-Optimization-Methods-4-TSP
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
