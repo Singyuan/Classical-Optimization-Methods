@@ -50,7 +50,7 @@ In the folder `data`, there are three files: `seven_test.json`, `adjacency_matri
 	* The transition probability is related to amount of pheromone and desirability values.
 
 # References
-The following references are from S.-J Chen in NUU.
+The following references are from Prof. S.-J. Chen in NUU.
 1. [GA](http://debussy.im.nuu.edu.tw/sjchen/MachineLearning/final/Opt_GA.pdf)
 2. [SA](http://debussy.im.nuu.edu.tw/sjchen/MachineLearning/final/Opt_SA.pdf)
 3. [Tabu](http://debussy.im.nuu.edu.tw/sjchen/MachineLearning/final/Opt_Tabu.pdf)
