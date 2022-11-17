@@ -7,6 +7,7 @@
     <li><a href="#introduction">Introduction</a></li>
     <li><a href="#data">Data</a></li>
     <li><a href="#demo">Demo</a></li>
+	<li><a href="#references">References</a></li>
   </ol>
 </details>
 
@@ -47,3 +48,11 @@ In the folder `data`, there are three files: `seven_test.json`, `adjacency_matri
 7. **Ant colony optimization method**:
 	* The amount of pheromone is related to evaporate rate and pheromone which is dropped by ants.
 	* The transition probability is related to amount of pheromone and desirability values.
+
+# References
+The following references are from S.-J Chen in NUU.
+1. [GA](http://debussy.im.nuu.edu.tw/sjchen/MachineLearning/final/Opt_GA.pdf)
+2. [SA](http://debussy.im.nuu.edu.tw/sjchen/MachineLearning/final/Opt_SA.pdf)
+3. [Tabu](http://debussy.im.nuu.edu.tw/sjchen/MachineLearning/final/Opt_Tabu.pdf)
+4. [PSO](http://debussy.im.nuu.edu.tw/sjchen/MachineLearning/final/Opt_PSO.pdf)
+5. [ACO](http://debussy.im.nuu.edu.tw/sjchen/MachineLearning/final/Opt_AntAlgo.pdf)
